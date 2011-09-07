@@ -8,6 +8,7 @@
 require 'net/http'
 require 'hpricot'
 require 'pry'
+require 'uri'
 require './lib/blog.rb'
 
 url = "http://rorcourse.tumblr.com"
